@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="hint_input_value">Enter value</string>
+    <string name="hint_result">Result</string>
+    <string name="convert_button">CONVERT TO</string>
+
+    <string-array name="length_units">
+        <item>Meter</item>
+        <item>Millimeter</item>
+        <item>Mile</item>
+        <item>Foot</item>
+    </string-array>
+</resources>
