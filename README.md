@@ -32,6 +32,8 @@ An improved version of the ToDoList app with database support using SQLite.
 - Persistent data storage using SQLite
 - Cleaner architecture and UI improvements
 
+Remember To Do List 1 dont contain persistent data, to do list contain persistent data.
+
 ## 🛠️ Tools Used
 
 - Java
